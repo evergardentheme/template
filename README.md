@@ -1,12 +1,12 @@
 <h3 align="center">
 	<img src="https://codeberg.org/evergarden/.profile/raw/branch/main/assets/logo-circle.png" width="100" alt="Logo"/><br/>
-	Evergarden for <a href="https://codeberg.org/everviolet/template">App</a>
+	Evergarden for <a href="https://codeberg.org/evergarden/template">App</a>
 </h3>
 
 <p align="center">
-	<a href="https://codeberg.org/everviolet/template/stargazers"><img src="https://img.shields.io/github/stars/everviolet/template?style=for-the-badge&colorA=2B3337&colorB=F5D098"></a>
-	<a href="https://codeberg.org/everviolet/template/issues"><img src="https://img.shields.io/github/issues/everviolet/template?style=for-the-badge&colorA=2B3337&colorB=F7A182"></a>
-	<a href="https://codeberg.org/everviolet/template/contributors"><img src="https://img.shields.io/github/contributors/everviolet/template?style=for-the-badge&colorA=2B3337&colorB=B3E6DB"></a>
+	<a href="https://codeberg.org/evergarden/template/stars"><img src="https://img.shields.io/github/stars/everviolet/template?style=for-the-badge&colorA=2B3337&colorB=F5D098"></a>
+	<a href="https://codeberg.org/evergarden/template/issues"><img src="https://img.shields.io/github/issues/everviolet/template?style=for-the-badge&colorA=2B3337&colorB=F7A182"></a>
+	<a href="https://codeberg.org/evergarden/template/activity/contributors"><img src="https://img.shields.io/github/contributors/everviolet/template?style=for-the-badge&colorA=2B3337&colorB=B3E6DB"></a>
 </p>
 
 <p align="center">
@@ -17,15 +17,19 @@
 
 <details>
 <summary>Winter</summary>
-<img src="https://codeberg.org/evergarden/.profile/raw/branch/main/assets/previews/winter.webp"/>
+<img src="https://codeberg.org/evergarden/template/raw/branch/main/assets/previews/winter.webp"/>
 </details>
 <details>
 <summary>Fall</summary>
-<img src="https://codeberg.org/evergarden/.profile/raw/branch/main/assets/previews/fall.webp"/>
+<img src="https://codeberg.org/evergarden/template/raw/branch/main/assets/previews/fall.webp"/>
 </details>
 <details>
 <summary>Spring</summary>
-<img src="https://codeberg.org/evergarden/.profile/raw/branch/main/assets/previews/spring.webp"/>
+<img src="https://codeberg.org/evergarden/template/raw/branch/main/assets/previews/spring.webp"/>
+</details>
+<details>
+<summary>Summer</summary>
+<img src="https://codeberg.org/evergarden/template/raw/branch/main/assets/previews/spring.webp"/>
 </details>
 
 ### Usage
