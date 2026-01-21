@@ -35,7 +35,7 @@
 </details>
 <details>
   <summary>Summer</summary>
-  <img src="assets/previews/spring.webp"/>
+  <img src="assets/previews/summer.webp"/>
 </details>
 
 ### Usage
