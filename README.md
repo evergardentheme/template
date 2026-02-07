@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/gitea/issues/open/evergarden/template?gitea_url=https%3A%2F%2Fcodeberg.org&style=for-the-badge&colorA=2B3337&colorB=F7A182">
   </a>
   <a href="https://codeberg.org/evergarden/template/activity/contributors">
-    <img src="https://img.shields.io/github/contributors/everviolet/template?style=for-the-badge&colorA=2B3337&colorB=B3E6DB">
+    <img src="https://img.shields.io/github/contributors/evergardentheme/template?style=for-the-badge&colorA=2B3337&colorB=B3E6DB">
   </a>
 </p>
 
