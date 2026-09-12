@@ -51,7 +51,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://codeberg.org/evergarden/template/src/COPYING">
-    <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=LICENSE&message=EUPL-1.2&colorA=2B3337&colorB=AFD9E6"/>
+  <a href="https://codeberg.org/evergarden/template/src/LICENSE">
+    <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=LICENSE&message=Apache-2.0&colorA=2B3337&colorB=AFD9E6"/>
   </a>
 </p>
