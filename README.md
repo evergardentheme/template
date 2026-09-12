@@ -41,8 +41,8 @@
 ### Usage
 
 1. Get the link to the raw theme file of your choice.
-1. Open the app and go to `Themes` -> `Import from url`.
-1. Enter the link you copied in the input field.
+2. Open the app and go to `Themes` -> `Import from url`.
+3. Enter the link you copied in the input field.
 
 ### Thanks to <3
 
